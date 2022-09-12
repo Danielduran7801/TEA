@@ -1,5 +1,5 @@
 # Tendencias e Innovacion en Tecnologia Agricola (TEA)
-x = "Hello, word"
+x = "Hello, world"
 
 #display: x 
 print(x)
